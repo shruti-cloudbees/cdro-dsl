@@ -1,0 +1,2 @@
+
+property 'includeAllChildren'

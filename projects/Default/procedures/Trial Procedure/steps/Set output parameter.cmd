@@ -1,0 +1,1 @@
+ectool setOutputParameter whoRanMe "$[/myJob/launchedByUser]"

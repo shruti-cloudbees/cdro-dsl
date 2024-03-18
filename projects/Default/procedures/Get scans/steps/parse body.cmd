@@ -1,0 +1,1 @@
+echo "$[/myJob/steps["property1"]/username]"
