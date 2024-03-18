@@ -1,6 +1,7 @@
 
 resource 'cd-flow-agent-0', {
   hostName = 'cd-flow-agent-flow-agent-0.cd-flow-agent-flow-agents.cd'
+  description = 'we created this description'
   hostType = 'CONCURRENT'
   resourceDisabled = '0'
   trusted = '0'
