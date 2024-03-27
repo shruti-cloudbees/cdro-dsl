@@ -6,7 +6,7 @@ resource 'cd-flow-agent-0', {
   resourceDisabled = '0'
   trusted = '0'
   useSSL = '1'
-  workspaceName = 'cdro-workspace-123'
+  workspaceName = 'cdro-workspace-new'
   zoneName = 'default'
 
   acl {
